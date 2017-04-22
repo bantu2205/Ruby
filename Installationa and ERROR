@@ -1,0 +1,21 @@
+Ruby installtion link
+
+http://rubyinstaller.org/downloads/
+
+Apatana IDE studios installtion link
+
+http://www.aptana.com/products/studio3/download.html
+
+Error:
+
+Apatana installtion error
+
+---->failed correctly acquire installer_nodejs_windows.msi file:CRC error
+
+Soultion:-
+I have some issue, the fix is:
+
+    ->Uninstall any nodejs version.
+    ->Install https://nodejs.org/dist/v0.10.36/x64/node-v0.10.36-x64.msi.
+    ->Install Aptana.
+    ->Code...
