@@ -19,3 +19,8 @@ I have some issue, the fix is:
     ->Install https://nodejs.org/dist/v0.10.36/x64/node-v0.10.36-x64.msi.
     ->Install Aptana.
     ->Code...
+
+
+call the function two methods
+
+code:require_relative 'Simple_Maths'
